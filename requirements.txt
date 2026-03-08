@@ -1,5 +1,6 @@
-requests
-colorama
-psutil
+
 playwright
 playwright-stealth
+requests
+psutil
+colorama
